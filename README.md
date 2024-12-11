@@ -1,3 +1,3 @@
 # Agri-dev
 
-https://www.blackbox.ai/share/d276a506-3bdd-4249-aaff-6212f51ad432
+https://prod.liveshare.vsengsaas.visualstudio.com/join?9D60B85060AE8DE1C104D9DE306D7FAB1C7B
