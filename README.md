@@ -1,3 +1,3 @@
 # Agri-dev
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?9D60B85060AE8DE1C104D9DE306D7FAB1C7B
+https://prod.liveshare.vsengsaas.visualstudio.com/join?BF76A8A878BB719FE2341A6EB7E8F2EF0570
